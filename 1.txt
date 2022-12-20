@@ -1,3 +1,2 @@
 first row
-seconf row
-exit
+second row
